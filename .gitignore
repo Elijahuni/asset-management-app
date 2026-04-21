@@ -1,0 +1,21 @@
+# Virtual Environment
+asset/
+venv/
+env/
+.venv/
+.env
+
+# Streamlit Secrets (보안 파일)
+.streamlit/secrets.toml
+
+# Python Cache & Logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# IDE & OS Files
+.vscode/
+.cursor/
+.DS_Store
